@@ -5344,6 +5344,8 @@ var rules = [
   "||sstmlt.moe",
   "sstmlt.net",
   "||sstmlt.net",
+  ".stackoverflow.com",
+  "||stackoverflow.com",
   "|http://stackoverflow.com/users/895245",
   ".stage64.hk",
   "||stage64.hk",
