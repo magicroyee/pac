@@ -72,6 +72,7 @@ var rules = [
   "||fxnetworks.com",
   ".github.com",
   "||github.com",
+  "||github.githubassets.com",
   ".github.io",
   "||github.io",
   "||g-area.org",
